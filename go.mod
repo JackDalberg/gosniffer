@@ -1,4 +1,4 @@
-module packetsniffer
+module gosniffer
 
 go 1.24.3
 
